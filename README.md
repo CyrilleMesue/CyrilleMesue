@@ -12,7 +12,7 @@ I am a university undergraduate student in the department of bioengineering. My 
 - 🤔 I’m looking for help with finding bioinformatics/computational biology/systems biology internships or jobs(virtual and remote)
 - 💬 Ask me about cancer research, bioinformatics or and any biology or biotech related stuff
 - 😄 Pronouns: He/Coder/bioinformatician/systems biologist/machiner learning engineer
-- ⚡ Fun fact: I am somes times forget to have breakfast while trying to solve bugs 😂
+- ⚡ Fun fact: I some times forget to have breakfast while trying to solve bugs 😂
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/)
