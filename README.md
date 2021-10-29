@@ -14,11 +14,6 @@ I am a university undergraduate student in the department of bioengineering. My 
 - 😄 Pronouns: He/Coder/bioinformatician/systems biologist/machiner learning engineer
 - ⚡ Fun fact: I some times forget to have breakfast while trying to solve bugs 😂
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/)
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
