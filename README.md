@@ -1,16 +1,13 @@
 ### Hi there 👋
 
 <!--
-**CyrilleMesue/cyrillemesue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on using machine learning for computational drug discovery
 - 🌱 I’m currently learning systems biology and bioinformatics
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on github, medium
+- 🤔 I’m looking for help with machine learning for bioinformatics tasks 
+- 💬 Ask me about cancer research, bioinformatics or and any biology or biotech related stuff
+- 📫 How to reach me: [LinkedIn](), [Facebook](), [Medium]()
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Singing almost all the time
 -->
