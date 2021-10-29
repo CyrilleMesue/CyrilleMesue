@@ -1,5 +1,5 @@
 ### Hello World, I'm Cyrille 👋
-I am a university undergraduate student in the department of bioengineering. My research interest is to make use of **machine learning**, **bioinformatics** and **computational systems biology** for ***understanding cancer cell developmnet, metastasis and immune cell evation***. I aim to use my knowledge for designing new drugs for ***cancer targeted therapies***.     
+I am a university undergraduate student in the department of bioengineering. My research interest is to make use of **machine learning**, **bioinformatics** and **computational systems biology** for ***understanding cancer cell developmnet, metastasis and how the evade apoptosis and immune cells***. I aim to use my knowledge for designing new drugs for ***cancer targeted therapies***.     
 
 :mailbox: Reach me out!    
 
