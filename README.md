@@ -15,17 +15,17 @@ I am a university undergraduate student in the department of bioengineering. My 
 - ⚡ Fun fact: I some times forget to have breakfast while trying to solve bugs 😂
 
 ### Languages and Tools:
-[![Javascript Badge](https://img.shields.io/badge/-Python3-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-MATLAB-F0DB4F?style=for-the-badge&labelColor=black&logo=octave&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-MS_Excel-F0DB4F?style=for-the-badge&labelColor=black&logo=excel&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-r_programming-F0DB4F?style=for-the-badge&labelColor=black&logo=rstudio&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Github-F0DB4F?style=for-the-badge&labelColor=black&logo=github&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-terninal-F0DB4F?style=for-the-badge&labelColor=black&logo=linuxterminal&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-COLAB-F0DB4F?style=for-the-badge&labelColor=black&logo=googlecolab&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-CSS-F0DB4F?style=for-the-badge&labelColor=black&logo=css&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-HTML-F0DB4F?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-ChEMBEL-F0DB4F?style=for-the-badge&labelColor=black&logo=chembel&logoColor=F0DB4F)](#)
+
+[![Javascript Badge](https://img.shields.io/badge/-Python3-797979?style=for-the-badge&labelColor=white&logo=python&logoColor=2497ff)](#)
+[![Javascript Badge](https://img.shields.io/badge/-MATLAB-797979?style=for-the-badge&labelColor=white&logo=octave&logoColor=2497ff)](#)
+[![Javascript Badge](https://img.shields.io/badge/-MS_Excel-797979?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=9aff24)](#)
+[![Javascript Badge](https://img.shields.io/badge/-r_programming-797979?style=for-the-badge&labelColor=white&logo=rstudio&logoColor=ff9c24)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Github-797979?style=for-the-badge&labelColor=white&logo=github&logoColor=000000)](#)
+[![Javascript Badge](https://img.shields.io/badge/-terminal-797979?style=for-the-badge&labelColor=white&logo=linux&logoColor=000000)](#)   
+[![Javascript Badge](https://img.shields.io/badge/-COLAB-797979?style=for-the-badge&labelColor=yellow&logo=googlecolab&logoColor=black)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-797979?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-CSS-797979?style=for-the-badge&labelColor=white&logo=css3&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-HTML-797979?style=for-the-badge&labelColor=white&logo=html5&logoColor=F0DB4F)](#)
 
 <br />
 <br />
