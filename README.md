@@ -1,7 +1,7 @@
 ### Hello World, I'm Cyrille 👋
 
 ## 
--  ✍ You can find my projects here [portfolio]
+-  ✍ You can find my projects here [Portfolio](https://cyrillemesue.github.io/Projects/)
 - 🔭 I’m currently working on using machine learning for computational drug discovery
 - 🌱 I’m currently learning systems biology and bioinformatics
 - 👯 I’m looking to collaborate on github, medium
