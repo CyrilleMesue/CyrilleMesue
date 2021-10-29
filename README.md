@@ -9,5 +9,5 @@
 - 💬 Ask me about cancer research, bioinformatics or and any biology or biotech related stuff
 - 📫 How to reach me: [LinkedIn](), [Facebook](), [Medium]()
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Singing almost all the time
+- ⚡ Fun fact: Singing almost all the time.
 -->
