@@ -3,7 +3,7 @@ I am a university undergraduate student in the department of bioengineering. My 
 
 :mailbox: Reach me out!    
 
-[![Linkedin Badge](https://img.shields.io/badge/-@CyrilleMesueNJUME-929292?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/) [![Mail Badge](https://img.shields.io/badge/-cyrillemesuegmail.com-d27f7a?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cyrillemesue@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@CyrilleMesue-4a2019?style=flat&labelColor=010203&logo=medium&logoColor=white)](https://medium.com/@cyrillemesue)  [![Mail Badge](https://img.shields.io/badge/-@Cyrillemesue-82bbdd?style=flat&labelColor=2497ff&logo=facebook&logoColor=white)](https://instagram.com/islempenywis) [![Twitter Badge](https://img.shields.io/badge/-@Cyrille79202046-929292?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Cyrille)](https://twitter.com/home)   
+[![Linkedin Badge](https://img.shields.io/badge/-@CyrilleMesueNJUME-929292?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/) [![Mail Badge](https://img.shields.io/badge/-cyrillemesuegmail.com-d27f7a?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cyrillemesue@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@CyrilleMesue-4a2019?style=flat&labelColor=010203&logo=medium&logoColor=white)](https://medium.com/@cyrillemesue)  [![Mail Badge](https://img.shields.io/badge/-@Cyrillemesue-82bbdd?style=flat&labelColor=2497ff&logo=facebook&logoColor=white)](https://m.facebook.com/home.php) [![Twitter Badge](https://img.shields.io/badge/-@Cyrille79202046-929292?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Cyrille)](https://twitter.com/home)   
 
 
 -  ✍ I’m currently working on using machine learning for computational drug discovery
@@ -11,7 +11,6 @@ I am a university undergraduate student in the department of bioengineering. My 
 - 👯 I’m looking to collaborate on github, medium
 - 🤔 I’m looking for help with machine learning for bioinformatics tasks 
 - 💬 Ask me about cancer research, bioinformatics or and any biology or biotech related stuff
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/), [Facebook](https://m.facebook.com/home.php), [Medium](https://cyrillemesue.medium.com/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Singing almost all the time.
 
