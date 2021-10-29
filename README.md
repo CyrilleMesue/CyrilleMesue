@@ -22,15 +22,26 @@ I am a university undergraduate student in the department of bioengineering. My 
 [![Javascript Badge](https://img.shields.io/badge/-r_programming-797979?style=for-the-badge&labelColor=white&logo=rstudio&logoColor=ff9c24)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Github-797979?style=for-the-badge&labelColor=white&logo=github&logoColor=000000)](#)
 [![Javascript Badge](https://img.shields.io/badge/-terminal-797979?style=for-the-badge&labelColor=white&logo=linux&logoColor=000000)](#)   
-[![Javascript Badge](https://img.shields.io/badge/-COLAB-797979?style=for-the-badge&labelColor=yellow&logo=googlecolab&logoColor=black)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-797979?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-CSS-797979?style=for-the-badge&labelColor=white&logo=css3&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-HTML-797979?style=for-the-badge&labelColor=white&logo=html5&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-COLAB-797979?style=for-the-badge&labelColor=white&logo=googlecolab&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-797979?style=for-the-badge&labelColor=yellow&logo=javascript&logoColor=black)](#)
+[![Javascript Badge](https://img.shields.io/badge/-CSS-797979?style=for-the-badge&labelColor=white&logo=css3&logoColor=2497ff)](#)
+[![Javascript Badge](https://img.shields.io/badge/-HTML-797979?style=for-the-badge&labelColor=white&logo=html5&logoColor=ff9c24)](#)    
+  
+  
+## Latest Blog Posts    
+* [How to Learn Machine Learning and Deep Learning in Less than a Year, with Little to no Programming Background](https://cyrillemesue.github.io/how-to-learn-machine-learning-and-deep-learning/)
+* [How to Apply for Financial Aid for a Coursera Course, Specialization or Professional Certificate](https://cyrillemesue.github.io/applying-for-coursera-financial-aid/)  
 
-<br />
-<br />
----
 
+## Currently Learning
+* [MIT Systems Biology Youtube course by Jeff Gore](https://www.youtube.com/playlist?list=PLUl4u3cNGP63OI3pSKo8Ha_DFBMxm23xO) 
+* [Bioinformatics videos by Chanin Nantasenamat](https://www.youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP)   
+
+
+## Currently Reading 
+* An Introduction to Systems Biology Design Principles of Biological Circuits by Uri Alon 
+
+----------------------------------------------------------------------------------------------------
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -45,8 +56,5 @@ I am a university undergraduate student in the department of bioengineering. My 
 
 </details>
 
-## Latest Blog Posts 
 
-## Currently Learning
-## Currently Reading 
 
