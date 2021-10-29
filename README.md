@@ -15,14 +15,18 @@ I am a university undergraduate student in the department of bioengineering. My 
 - ⚡ Fun fact: I some times forget to have breakfast while trying to solve bugs 😂
 
 ### Languages and Tools:
-
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
-
+[![Javascript Badge](https://img.shields.io/badge/-Python3-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-MATLAB-F0DB4F?style=for-the-badge&labelColor=black&logo=octave&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-MS_Excel-F0DB4F?style=for-the-badge&labelColor=black&logo=excel&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-r_programming-F0DB4F?style=for-the-badge&labelColor=black&logo=rstudio&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Github-F0DB4F?style=for-the-badge&labelColor=black&logo=github&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-terninal-F0DB4F?style=for-the-badge&labelColor=black&logo=linuxterminal&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-COLAB-F0DB4F?style=for-the-badge&labelColor=black&logo=googlecolab&logoColor=F0DB4F)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-CSS-F0DB4F?style=for-the-badge&labelColor=black&logo=css&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-HTML-F0DB4F?style=for-the-badge&labelColor=black&logo=html&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-ChEMBEL-F0DB4F?style=for-the-badge&labelColor=black&logo=chembel&logoColor=F0DB4F)](#)
+
 <br />
 <br />
 ---
