@@ -34,7 +34,7 @@ I am a university undergraduate student in the department of bioengineering. My 
 
 
 ## Currently Learning
-* [MIT Systems Biology Youtube course by Jeff Gore](https://www.youtube.com/playlist?list=PLUl4u3cNGP63OI3pSKo8Ha_DFBMxm23xO) 
+* [Bioinformatics on Rosalind](http://rosalind.info/problems/list-view/)
 * [Bioinformatics videos by Chanin Nantasenamat](https://www.youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP)   
 
 
