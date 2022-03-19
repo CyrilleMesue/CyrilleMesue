@@ -6,12 +6,12 @@ I am a university undergraduate student in the department of bioengineering. My 
 [![Linkedin Badge](https://img.shields.io/badge/-@CyrilleMesueNJUME-929292?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/) [![Mail Badge](https://img.shields.io/badge/-cyrillemesue@gmail.com-d27f7a?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cyrillemesue@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@CyrilleMesue-4a2019?style=flat&labelColor=010203&logo=medium&logoColor=white)](https://medium.com/@cyrillemesue)  [![Mail Badge](https://img.shields.io/badge/-@Cyrillemesue-82bbdd?style=flat&labelColor=2497ff&logo=facebook&logoColor=white)](https://m.facebook.com/home.php) [![Twitter Badge](https://img.shields.io/badge/-@Cyrille79202046-929292?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Cyrille)](https://twitter.com/home)   
 
 
--  ✍ I’m currently working on using machine learning for computational drug discovery
-- 🌱 I’m currently learning systems biology and bioinformatics
+-  ✍ I’m currently working on using machine learning for computational drug discovery and metabolic analysis of diseases
+- 🌱 I’m currently learning systems biology and bioinformatics: Taking courses and reading books
 - 👯 I’m looking to collaborate on github, medium
 - 🤔 I’m looking for help with finding bioinformatics/computational biology/systems biology internships or jobs(virtual and remote)
 - 💬 Ask me about cancer research, bioinformatics or and any biology or biotech related stuff
-- 😄 Pronouns: He/Coder/bioinformatician/systems biologist/machiner learning engineer
+- 😄 Pronouns: He/Coder/bioinformatician/systems biologist/machine learning engineer
 - ⚡ Fun fact: I some times forget to have breakfast while trying to solve bugs 😂
 
 ### Languages and Tools:
@@ -35,11 +35,12 @@ I am a university undergraduate student in the department of bioengineering. My 
 
 ## Currently Learning
 * [Bioinformatics on Rosalind](http://rosalind.info/problems/list-view/)
-* [Bioinformatics videos by Chanin Nantasenamat](https://www.youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP)   
+* [Systems Biology and Biotechnology Course on Coursera](https://www.coursera.org/specializations/systems-biology)   
+* [Genomic Datascience course on Coursera](https://www.coursera.org/specializations/genomic-data-science)
 
 
 ## Currently Reading 
-* An Introduction to Systems Biology Design Principles of Biological Circuits by Uri Alon 
+* Computational Systems Biology of cancer by Barillot, Emmanuel 
 
 ----------------------------------------------------------------------------------------------------
 <details>
