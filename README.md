@@ -1,18 +1,20 @@
 ### Hello World, I'm Cyrille 👋
-I am a university undergraduate student in the department of bioengineering. My research interest is to make use of **machine learning**, **bioinformatics** and **computational systems biology** for ***understanding cancer cell developmnet, metastasis and how cancer cells evade apoptosis and immune cells***. I aim to use my knowledge for designing new drugs for ***cancer targeted therapies***.     
+I am an enthusiastic scientist eager to contribute to team success through hard work. Attentive to detail, employs excellent critical thinking and aims at utilizing machine learning, deep learning, bioinformatics and Systems Biology to make a positive impact in global healthcare. Enjoys gathering, organizing and analyzing data, building machine learning solutions, and contributing to project strategies.
+
+    
 
 :mailbox: Reach me out!    
 
-[![Linkedin Badge](https://img.shields.io/badge/-@CyrilleMesueNJUME-929292?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/) [![Mail Badge](https://img.shields.io/badge/-cyrillemesue@gmail.com-d27f7a?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cyrillemesue@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@CyrilleMesue-4a2019?style=flat&labelColor=010203&logo=medium&logoColor=white)](https://medium.com/@cyrillemesue) [![Twitter Badge](https://img.shields.io/badge/-@Cyrille79202046-929292?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Cyrille)](https://twitter.com/home)   
+[![Linkedin Badge](https://img.shields.io/badge/-@CyrilleMesueNJUME-929292?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/) [![Mail Badge](https://img.shields.io/badge/-cyrillemesue@gmail.com-d27f7a?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cyrillemesue@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@CyrilleMesue-4a2019?style=flat&labelColor=010203&logo=medium&logoColor=white)](https://medium.com/@cyrillemesue) 
 
 
 -  ✍ I’m currently working on using machine learning for computational drug discovery and metabolic analysis of diseases
 - 🌱 I’m currently learning systems biology and bioinformatics: Taking courses and reading books
 - 👯 I’m looking to collaborate on github, medium
-- 🤔 I’m looking for help with finding bioinformatics/computational biology/systems biology internships or jobs(virtual and remote)
-- 💬 Ask me about cancer research, bioinformatics or and any biology or biotech related stuff
-- 😄 Pronouns: He/Coder/bioinformatician/systems biologist/machine learning engineer
-- ⚡ Fun fact: I some times forget to have breakfast while trying to solve bugs 😂
+- 🤔 I’m looking for help with finding Data science, bioinformatics/computational biology/systems biology internships or jobs(virtual and remote)
+- 💬 Ask me about data, machine learning or any biology or biotech related stuff
+- 😄 Pronouns: He/Coder/data scientist/systems biologist/machine learning engineer
+
 
 ### Languages and Tools:
 
@@ -34,7 +36,7 @@ I am a university undergraduate student in the department of bioengineering. My 
 
 
 ## Currently Learning
-* [Bioinformatics on Rosalind](http://rosalind.info/problems/list-view/)
+* [Python Developer Zero to Mastery]([http://rosalind.info/problems/list-view/](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/16138371?start=0#overview))
 * [Systems Biology and Biotechnology Course on Coursera](https://www.coursera.org/specializations/systems-biology)   
 * [Genomic Datascience course on Coursera](https://www.coursera.org/specializations/genomic-data-science)
 
