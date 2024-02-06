@@ -10,9 +10,9 @@ I am an enthusiastic scientist eager to contribute to team success through hard 
 
 -  ✍ I’m currently working on using machine learning for computational drug discovery and metabolic analysis of diseases
 - 🌱 I’m currently learning systems biology and bioinformatics: Taking courses and reading books
-- 👯 I’m looking to collaborate on github, medium
-- 🤔 I’m looking for help with finding Data science, bioinformatics/computational biology/systems biology internships or jobs(virtual and remote)
-- 💬 Ask me about data, machine learning or any biology or biotech related stuff
+- 👯 I’m looking to collaborate on github, linkedin
+- 🤔 I’m looking for help with finding Data science, bioinformatics/computational biology/systems biology internships or jobs(open to virtual and remote options)
+- 💬 Ask me about data, machine learning or any biology or bioinformatics related stuff
 - 😄 Pronouns: He/Coder/data scientist/systems biologist/machine learning engineer
 
 
