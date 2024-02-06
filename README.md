@@ -1,6 +1,5 @@
 ### Hello World, I'm Cyrille 👋
-I am an enthusiastic scientist eager to contribute to team success through hard work. Attentive to detail, employs excellent critical thinking and aims at utilizing machine learning, deep learning, bioinformatics and Systems Biology to make a positive impact in global healthcare. Enjoys gathering, organizing and analyzing data, building machine learning solutions, and contributing to project strategies.
-
+I am a motivated Bioengineering graduate with a solid foundation in bioinformatics research. Dedicated to pushing the boundaries of biomedical research, specializing in cancer biology, genomics, and transcriptomics. Demonstrated commitment to academic excellence and a research-driven mindset. Enthusiastic scientist eager to contribute to team success through hard work, employing excellent critical thinking and aiming to utilize machine learning, deep learning, bioinformatics, and Systems Biology to make a positive impact in global healthcare. Enjoys gathering, organizing, and analyzing data, building machine learning solutions, and contributing to project strategies.
     
 
 :mailbox: Reach me out!    
