@@ -27,7 +27,10 @@ I am a motivated Bioengineering graduate with a solid foundation in bioinformati
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-797979?style=for-the-badge&labelColor=yellow&logo=javascript&logoColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-CSS-797979?style=for-the-badge&labelColor=white&logo=css3&logoColor=2497ff)](#)
 [![Javascript Badge](https://img.shields.io/badge/-HTML-797979?style=for-the-badge&labelColor=white&logo=html5&logoColor=ff9c24)](#)    
-  
+[![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
+[![Matplotlib](https://matplotlib.org/_static/logo_dark.svg)](https://matplotlib.org/)
+[![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)](https://seaborn.pydata.org/)
+[![Feature-engine](https://feature-engine.trainindata.com/en/latest/_static/Logo_name.png)](https://github.com/solegalli/feature_engine)
   
 ## Latest Blog Posts    
 * [How to Learn Machine Learning and Deep Learning in Less than a Year, with Little to no Programming Background](https://cyrillemesue.github.io/how-to-learn-machine-learning-and-deep-learning/)
